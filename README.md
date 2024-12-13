@@ -25,7 +25,7 @@ Este repositorio contiene las instrucciones para que los estudiantes desarrollen
 
 4. **División de datos:**
    - Divide el conjunto base en entrenamiento y validación.
-   - Asegúrte de mantener el conjunto propio como prueba independiente.
+   - Asegúrate de mantener el conjunto propio como prueba independiente.
 
 ### **2. Diseño del modelo predictivo basado en redes neuronales**
 
